@@ -1,0 +1,6 @@
+{
+  "name": "Take-home-exam-3-csis-604",
+  "tagline": "",
+  "body": "### Part 1 - MPI Sorting (50%)\r\n* Implementing your sorting routine from the previous take home exam using standard MPI libraries in the language of your choice\r\n* Must have communication between 3 or more virtual machines\r\n* Solution must be able to run on your Ubuntu server virtual machine\r\n\r\n### Part 2 - Message Queue (50%)\r\n* Implementing your sorting routine from the previous take home exam using message queue libraries in the language of your choice\r\n* Must have communication between 3 or more virtual machines\r\n* Solution must be able to run on your Ubuntu server virtual machine\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
